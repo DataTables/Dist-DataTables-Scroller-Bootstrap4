@@ -3,9 +3,10 @@
     "version": "1.4.4",
     "description": "Scroller for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
-    "main": "./js/scroller.bootstrap4.js",
+    "main": "js/scroller.bootstrap4.js",
     "keywords": [
         "virtual scrolling",
         "DataTables",
@@ -24,5 +25,6 @@
         "jquery": ">=1.7",
         "datatables.net-bs4": "^1.10.15",
         "datatables.net-scroller": "1.4.4"
-    }
+    },
+    "style": "css/scroller.bootstrap4.css"
 }
