@@ -2,12 +2,14 @@
     "name": "datatables.net-scroller-bs4",
     "description": "Scroller for DataTables with styling for [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)",
     "main": "js/scroller.bootstrap4.js",
+    "module": "js/scroller.bootstrap4.mjs",
     "style": "css/scroller.bootstrap4.css",
     "types": "./types/scroller.bootstrap4.d.ts",
     "version": "2.0.7",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
