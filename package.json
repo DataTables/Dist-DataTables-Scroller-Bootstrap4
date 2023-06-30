@@ -4,7 +4,7 @@
     "main": "js/scroller.bootstrap4.js",
     "module": "js/scroller.bootstrap4.mjs",
     "style": "css/scroller.bootstrap4.css",
-    "types": "./types/types.d.ts",
+    "types": "./types/scroller.bootstrap4.d.ts",
     "version": "2.1.1",
     "files": [
         "css/**/*.css",
@@ -14,9 +14,9 @@
     ],
     "keywords": [
         "Scroller",
-        "Virtual Scrolling",
+ "Virtual Scrolling",
         "Bootstrap",
-        "Bootstrap4",
+ "Bootstrap4",
         "Datatables",
         "jQuery",
         "table",
@@ -24,8 +24,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-scroller": ">=2.0.7",
-        "datatables.net-bs4": ">=1.12.1",
+        "datatables.net-scroller": ">=2.1.1",
+        "datatables.net-bs4": ">=1.13.4",
         "jquery": ">=1.7"
     },
     "moduleType": [
