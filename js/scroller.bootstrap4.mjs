@@ -1,14 +1,11 @@
-/*! Bootstrap 4 styling wrapper for Scroller
- * © SpryMedia Ltd - datatables.net/license
+/*! Scroller Bootstrap 4 styling 3.0.0-beta.1 for DataTables
+ * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
-import jQuery from 'jquery';
 import DataTable from 'datatables.net-bs4';
 import Scroller from 'datatables.net-scroller';
-
-// Allow reassignment of the $ variable
-let $ = jQuery;
 
 
 
 export default DataTable;
+
